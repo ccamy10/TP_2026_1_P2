@@ -1,6 +1,6 @@
-﻿namespace SistemaGimnasio.Test
+﻿using SistemaGimnasio.Modelos;
+namespace SistemaGimnasio.Test
 {
-    using SistemaGimnasio.Modelos;
     public class EntrenadorTests
     {
         [Fact]
